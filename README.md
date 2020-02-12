@@ -1,1 +1,1 @@
-# ArthurHughClough
+# Arthur Hugh Clough connections
