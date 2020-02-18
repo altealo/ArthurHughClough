@@ -7,3 +7,6 @@ Connections with other alters in the Florence Nightingale egonet.
 | [Fanny Nightingale](https://github.com/altealo/FannyNightingale/blob/master/README.md) |[Wikipedia. *Arthur Hugh Clough.*](https://en.wikipedia.org/wiki/Arthur_Hugh_Clough)|
 | [Parthenope Nightingale](https://github.com/altealo/ParthenopeNightingale/blob/master/README.md)  |[Wikipedia. *Arthur Hugh Clough.*](https://en.wikipedia.org/wiki/Arthur_Hugh_Clough)|
 | [William Nightingale](https://github.com/altealo/WilliamNightingale/blob/master/README.md) |[Wikipedia. *Arthur Hugh Clough.*](https://en.wikipedia.org/wiki/Arthur_Hugh_Clough)|
+| [Jane Smith](https://github.com/altealo/JaneSmith/blob/master/README.md)  |[Wikipedia. *Arthur Hugh Clough.*](https://en.wikipedia.org/wiki/Arthur_Hugh_Clough)|
+| [Mai Smith](https://github.com/altealo/MaiSmith/blob/master/README.md)  |[Wikipedia. *Arthur Hugh Clough.*](https://en.wikipedia.org/wiki/Arthur_Hugh_Clough)|
+| [Octavius Smith](https://github.com/altealo/OctaviusSmith/blob/master/README.md) |[Wikipedia. *Arthur Hugh Clough.*](https://en.wikipedia.org/wiki/Arthur_Hugh_Clough)|
